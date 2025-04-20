@@ -2,7 +2,6 @@
 
 ## 📌 Hakkında
 Bu proje, **ASP.NET MVC 5** mimarisiyle geliştirilmiş, dinamik ve yönetilebilir bir **CV web sitesi** uygulamasıdır.  
-Kurs: [MVC5 ile Sıfırdan Admin Panelli Dinamik Cv Sitesi](https://www.udemy.com/course/mvc5-ile-sfrdan-admin-panelli-dinamik-cv-sitesi)
 
 ---
 
