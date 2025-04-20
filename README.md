@@ -31,7 +31,6 @@ Bu proje sayesinde hem MVC mimarisini pekiştirdim hem de veritabanı yönetimi,
 
 ---
 
-## 🚀 Başlamak İçin
-1. Projeyi klonla:
-   ```bash
-   git clone https://github.com/ceydakyaa/MvcCv.git
+![Image](https://github.com/user-attachments/assets/e1e927ba-afbf-4759-b975-6292eeffba10)
+
+
