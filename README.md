@@ -40,3 +40,6 @@ Bu proje sayesinde hem MVC mimarisini pekiştirdim hem de veritabanı yönetimi,
 ![Image](https://github.com/user-attachments/assets/4c561c0e-c3c8-42c1-8216-ba376d5a9000)
 
 ![Image](https://github.com/user-attachments/assets/005b6d15-0e88-4017-b09f-2c652c88e371)
+
+![Image](https://github.com/user-attachments/assets/955bedc9-b928-4185-9e39-55128dcba1d3)
+
